@@ -1,0 +1,22 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "oregon travel app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/https/github.com.git"
+  },
+  "author": "jeff mccommas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/https/github.com/issues"
+  },
+  "homepage": "https://github.com/https/github.com#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
